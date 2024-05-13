@@ -42,7 +42,7 @@ object RideCleansingExercise extends ExerciseBase {
 
 ```
 Тест:
-![alt text](./images/image.png)
+![alt text](./images/image.jpg)
 
 ## - RidesAndFaresExercise
 Код:
@@ -114,7 +114,7 @@ object RidesAndFaresExercise {
 }
 ```
 Тест:
-![alt text](./images/image-1.png)
+![alt text](./images/image-1.jpg)
 
 ## - HourlyTipsExerxise
 Код:
@@ -171,7 +171,7 @@ object HourlyTipsExercise {
 }
 ```
 Тест:
-![alt text](./images/image-2.png)
+![alt text](./images/image-2.jpg)
 
 ## - ExpiringStateExercise
 Код:
@@ -267,4 +267,4 @@ object ExpiringStateExercise {
 }
 ```
 Тест:
-![alt text](./images/image-3.png)
+![alt text](./images/image-3.jpg)
